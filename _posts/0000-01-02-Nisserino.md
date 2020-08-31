@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Du vet ratchet and clank?
 Use the left arrow to go back!
